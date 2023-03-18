@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        ul {
+            background-color: rgb(125, 126, 122)
+        }
+
+        li {
+              color: yellow;
+
+        }
+
+
+    </style>
+
+</head>
+
+
+<body>
+
+<!-- ul>li*99 -->
+
+<ul>
+    <li>1</li>
+    <li>2</li>
+    <li>3</li>
+    <li>4</li>
+    <li>5</li>
+    <li>6</li>
+    <li>7</li>
+    <li>8</li>
+    <li>9</li>
+    <li>Washington</li>
+    <li>California</li>
+    <li>Nevada</li>
+    <li>Oregon</li>
+    <li>Arizona</li>
+    <li>New Mexico</li>
+    <li>Montana</li>
+    <li>Idaho</li>
+    <li>Colorado</li>
+    <li>Wyoming</li>
+    <li>USA</li>
+    <li>Mexico</li>
+    <li>Canada</li>
+    <li>Brazil</li>
+    <li>Cuba</li>
+    <li>Jamaica</li>
+    <li>South Africa</li>
+    <li>Spain</li>
+    <li>Portugal</li>
+    <li>Netherlands</li>
+    <li>Austria</li>
+    <li>Germany</li>
+    <li>England</li>
+    <li>Wales</li>
+    <li>Ireland</li>
+    <li>Australia</li>
+    <li>Japan</li>
+    <li>China</li>
+    <li>Taiwan</li>
+    <li>Puerto Rico</li>
+    <li>Belize</li>
+    <li>Chile</li>
+    <li>Paraguay</li>
+    <li>Uruguay</li>
+    <li>Burgers</li>
+    <li>Coca-cola</li>
+    <li>Pepsi</li>
+    <li>Sprite</li>
+    <li>Dr Pepper</li>
+    <li>Mountain Dew</li>
+    <li>Superbad</li>
+    <li>Cheat</li>
+    <li>Sheet</li>
+    <li>Guide</li>
+    <li>List</li>
+    <li>To</li>
+    <li>PyCharm</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>how</li>
+    <li>Week</li>
+    <li>Dash</li>
+    <li>Board</li>
+    <li>Months</li>
+    <li>Years</li>
+    <li>Skate</li>
+    <li>Car</li>
+    <li>RSX</li>
+    <li>NSX</li>
+    <li>JDM</li>
+    <li>Honda</li>
+    <li>Acura</li>
+    <li>Ford</li>
+    <li>Prius</li>
+    <li>Van</li>
+    <li>Lambo</li>
+    <li>Ferrari</li>
+    <li>Civic</li>
+    <li>CRX</li>
+    <li>Pontiac</li>
+    <li>Mistubishi</li>
+    <li>Subaru</li>
+    <li>Parent</li>
+    <li>Toonami</li>
+    <li>Cartoon</li>
+    <li>Network</li>
+    <li>Dinsey</li>
+    <li>Channel</li>
+    <li>Free</li>
+    <li>NBA</li>
+    <li>NFL</li>
+    <li>NHL</li>
+    <li>MLB</li>
+    <li>Soccer</li>
+    <li>Play</li>
+    <li>line</li>
+    <li>33</li>
+    <li>22</li>
+    <li>44</li>
+    <li>55</li>
+</ul>
+
+</body>
+</html>
